@@ -1,0 +1,19 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Xamarin.Cognitive.Face.Sample.Droid", "Xamarin.Cognitive.Face.Sample.Droid.csproj", "{F1B643EA-4615-4BF3-8734-0C54E19F4BFE}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "Xamarin.Cognitive.Face.Sample.Shared", "..\Xamarin.Cognitive.Face.Sample.Shared\Xamarin.Cognitive.Face.Sample.Shared.shproj", "{8DB997B6-024C-43AA-B978-E00F0D2F6473}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F1B643EA-4615-4BF3-8734-0C54E19F4BFE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1B643EA-4615-4BF3-8734-0C54E19F4BFE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1B643EA-4615-4BF3-8734-0C54E19F4BFE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1B643EA-4615-4BF3-8734-0C54E19F4BFE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
