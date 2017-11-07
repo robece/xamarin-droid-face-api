@@ -2,7 +2,7 @@
 
 This code project is a transcription of the [public Android client library](https://github.com/Microsoft/Cognitive-Face-Android) released by Microsoft for Face API, the purpose is demonstrate how is possible to integrate the Face API service with Xamarin, using the nuget package 'Xamarin.Cognitive.Face'.
 
-This project it's just a part of a bundle of samples and library code provided in the Xamarin.Cognitive.Face nuget package [GitHub repository](https://github.com/colbylwilliams/Cognitive-Face-Xamarin), if you want to see more details about the Xamarin.iOS implementation, I strongly suggest visit [here](https://github.com/colbylwilliams/Cognitive-Face-Xamarin/tree/master/Xamarin.Cognitive.Face/Xamarin.Cognitive.Face.Sample/Xamarin.Cognitive.Face.Sample.iOS).
+This project it's just a part of a bundle of samples and library code provided in the [Xamarin.Cognitive.Face](https://github.com/colbylwilliams/Cognitive-Face-Xamarin) nuget package, if you want to see more details about the Xamarin.iOS implementation, I strongly suggest visit [here](https://github.com/colbylwilliams/Cognitive-Face-Xamarin/tree/master/Xamarin.Cognitive.Face/Xamarin.Cognitive.Face.Sample/Xamarin.Cognitive.Face.Sample.iOS).
 
 ## Setup project
 
