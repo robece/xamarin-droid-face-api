@@ -27,11 +27,11 @@ Go directly to source/Xamarin.Cognitive.Face.Sample.Droid/FaceDemoApp.cs and con
 
 Once you have configure it your app settings, you are able to run the app.
 
-<img src="http://rcervantes.me/images/face-api-xamarin-android-client.png" width="250">
+<img src="http://rcervantes.me/images/face-api-xamarin-android-client.png" width="250" />
 
 E.g. of finding similar faces.
 
-<img src="http://rcervantes.me/images/face-api-xamarin-android-client-find-similar.png" width="250">
+<img src="http://rcervantes.me/images/face-api-xamarin-android-client-find-similar.png" width="250" />
 
 ## Credits
 
